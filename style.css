@@ -1,0 +1,19 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin:0px;
+    color:rgb(17, 255, 69);
+    background-color: black;
+}
+
+.note
+{
+    font-size: 15px;
+    color: rgb(17, 255, 69);
+}
